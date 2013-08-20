@@ -1,12 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
-<<<<<<< HEAD
 SUBLEVEL = 53
 EXTRAVERSION =_Stilleto_S4_v2
-=======
-SUBLEVEL = 0
-EXTRAVERSION =_Infamous_S4_Kernel_3.3
->>>>>>> bbf8cc9... Low CPU Clocks: Allow ultra low CPU frequencies for better battery pe…
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*

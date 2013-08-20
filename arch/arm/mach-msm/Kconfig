@@ -1753,8 +1753,6 @@ config MSM_CPU_FREQ_MIN
 
 endif # CPU_FREQ_MSM
 
-<<<<<<< HEAD
-=======
 config LOW_CPUCLOCKS
 	bool "Enable ultra low CPU clocks"
 	default n
@@ -1784,7 +1782,6 @@ config CPU_VOLTAGE_TABLE
 	help
 	  Krait User Votlage Control
 
->>>>>>> bbf8cc9... Low CPU Clocks: Allow ultra low CPU frequencies for better battery pe…
 config MSM_AVS_HW
 	bool "Enable Adaptive Voltage Scaling (AVS)"
 	default n
